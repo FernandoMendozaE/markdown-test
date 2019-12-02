@@ -82,4 +82,4 @@ este es un ~~testo~~ tachado
 - [ ] Task 3
 - [x] Task 4
 
-@faztweb :smiley:
+@faztweb :smiley: :+1:
